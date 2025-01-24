@@ -8,7 +8,7 @@ public class ServiceA {
 	@GetMapping("/Hai")
 		
 		String display() {
-			return "Hai from Controller";
+			return "Hai from Controller Version-2";
 		}
 	}
 	
